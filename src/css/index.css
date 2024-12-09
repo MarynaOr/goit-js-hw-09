@@ -1,0 +1,28 @@
+.index-link{
+    display: flex;
+    justify-content: space-evenly;
+  
+   
+    font-weight: 900;
+    color: rgb(95, 94, 94);
+}
+
+.gal-link:hover, .gal-link:focus,
+.form-link:hover, .form-link:focus  {
+    color: brown;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
