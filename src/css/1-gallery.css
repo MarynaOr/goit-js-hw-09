@@ -1,1 +1,29 @@
+img{
+    width: 360px;
+    height: 200px;
+    
+}
+.gallery{
+    display: flex;
+   flex-wrap: wrap;
+   gap: 24px;
+  justify-content: center;
+}
+
+ul{
+    list-style: none;
+}
+
+.link-style{
+    font-weight: 500;
+    color: blue;
+    margin-left: 45px;
+    margin-bottom: 25px;
+    margin-top: 15px;
+    width: 50px;
+    border: none;
+    background-color: #fff;
+}
+
+
 
